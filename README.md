@@ -33,21 +33,3 @@ Order Received in MongoDB database-
 
 ![image](https://github.com/user-attachments/assets/1e099123-1e7f-4a3c-ba55-38f5e42aaef4)
 
-
-
-
-
-To run the project:
-
-Navigate to backend folder in terminal using the command: "cd backend". 
-Run the command "npm i" to install dependencies. 
-Start the server by running "npm run dev".
-
-![image](https://github.com/user-attachments/assets/280c7827-35c5-45e8-b177-7a1ecc4d087d)
-
-
-Now, navigate to the root folder and run "cd frontend" to go into the frontend folder. 
-Run the command "npm i" to install dependencies. 
-Start the client by running "npm run dev"
-
-![image](https://github.com/user-attachments/assets/74067a5c-4d34-47f3-8e6e-f32176d7a68c)
